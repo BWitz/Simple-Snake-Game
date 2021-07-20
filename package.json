@@ -1,0 +1,11 @@
+{
+  "name": "snake_game",
+  "version": "1.0.0",
+  "description": "basic javascript version of snake, an old retro arcade game.",
+  "main": "snake_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
